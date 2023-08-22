@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/naga1979/nodeapp_test.git'
+        git 'https://github.com/krishkrishnaa/kubsdeply-master.git'
       }
     }
 
