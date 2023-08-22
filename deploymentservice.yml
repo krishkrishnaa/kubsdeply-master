@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: nagamlak/newdeploy:latest
+        image: krishkrishnaa/firstJenkins:latest
         ports:
         - containerPort: 3000
         
