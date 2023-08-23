@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "krishkrishnaa/firstJenkins"
+    dockerimagename = "krishkrishnaa/firstjenkins"
     dockerImage = ""
   }
 
